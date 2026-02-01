@@ -1,2 +1,12 @@
-# c_course
-A complete collection of C programming exercises from zero. Learn variables, loops, functions, arrays, pointers, and more with practical challenges. Perfect for beginners and anyone aiming to master C step by step. 🚀💻
+# C Programming Exercises from Zero 🚀
+
+This repository contains exercises to learn C programming from scratch.
+
+## Topics Covered
+- Variables & Data Types
+- Loops & Conditionals
+- Functions & Recursion
+- Arrays & Pointers
+
+## Usage
+Open each file and run it with:
