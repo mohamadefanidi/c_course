@@ -1,0 +1,9 @@
+4- Print on the screen the following message using write :
+
+Output :
+H
+ e
+  l
+   l
+    o
+G   a   m   m   a   l Tech!

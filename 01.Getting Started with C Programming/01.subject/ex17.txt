@@ -1,0 +1,6 @@
+7-Write a program that calculates the perimeter ofa
+square.
+Use a variable forthe side length ofthe square. Printthe result.
+
+Output:
+The perimeter of the square with side length 6 is: 24

@@ -1,0 +1,5 @@
+2- Print on the screen the following message using write :
+
+Output :
+Hello
+Gammal Tech!

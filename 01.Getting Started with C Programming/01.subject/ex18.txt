@@ -1,0 +1,6 @@
+8-Write a program that calculates both the area and
+perimeter ofa rectangle. Usetwo variables forthe length and width ofthe rectangle. Printthe results.
+
+Output:
+The area of the rectangle with length 5 and width 8 is; 40
+The perimeter of the rectangle with length 5 and 8 is: 26

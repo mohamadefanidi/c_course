@@ -1,0 +1,5 @@
+9-Write a program that calculates the numerical
+complement ofa given numberwith respectto 10. For example, the complement of 6 with respectto 10 is 4.
+
+Output:
+The numerical complement of 6 with respect to 10 is: 4

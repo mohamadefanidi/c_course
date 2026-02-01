@@ -1,0 +1,6 @@
+3- Print on the screen the following message using write :
+
+Output :
+Hello
+G a  m   m    a     l
+Tech!

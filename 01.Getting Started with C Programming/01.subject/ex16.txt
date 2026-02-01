@@ -1,0 +1,5 @@
+6-Write a program that calculates the area ofa rectangle.Usetwo variables forthe length and width ofthe
+rectangle. Printthe result.
+
+Output:
+the area of the rectangle with length 5 and width 8 is: 40

@@ -1,0 +1,13 @@
+5- Print on the screen the following message using write:
+
+Otput:
+H
+e
+  l
+    l
+      o
+G  a  m  m  a  l
+     T
+   e
+  c
+h!

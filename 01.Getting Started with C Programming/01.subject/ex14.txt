@@ -1,0 +1,5 @@
+4- Write a program that prints the result of multiplying
+three numbers
+
+Output:
+the reselt of multiplying 2, 3, and 4 is: 24

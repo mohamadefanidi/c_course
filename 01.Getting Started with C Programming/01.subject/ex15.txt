@@ -1,0 +1,6 @@
+5- Write a program with two variables, multiply them, and
+print the result. Then add them and print the sum.
+
+Output:
+The product of 4 and 7 is: 28
+The sum of 4 and 7 is: 11

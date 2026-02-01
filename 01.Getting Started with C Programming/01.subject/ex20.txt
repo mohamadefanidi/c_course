@@ -1,0 +1,5 @@
+10 -Write program that swaps thevalues oftwo numbers
+
+Output:
+Before swapping: num1 = 5, num2 = 8
+After swapping: num1 = 8, num2 = 5

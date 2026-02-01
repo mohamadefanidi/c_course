@@ -1,0 +1,8 @@
+8 - Print on the screen the following shape using write:
+
+Output;
+    ******
+   *    *
+  *    *
+ *    *
+******

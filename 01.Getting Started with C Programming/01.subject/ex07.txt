@@ -1,0 +1,8 @@
+7- Print on the screen the following hollow triangle using write:
+
+Output:
+    *
+   * *
+  *   *
+ *     *
+*********

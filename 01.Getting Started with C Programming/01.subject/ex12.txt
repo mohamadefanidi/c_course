@@ -1,0 +1,5 @@
+2-Write a program to prints the result of sum two numbers
+and records the result in a third variable:
+
+Output:
+The sum of 10 and 20 is: 30

@@ -1,0 +1,9 @@
+3- Write a program that involves four numbers. Calculate
+the sum of the first three numbers and then subtract the
+fourth number from the sum. Print both the sum of the
+first three numbers and the result after subtracting the
+fourth number.
+
+Output:
+the sum of numbers 5, 8, and 3 is: 16
+Subtracting number 2 from the sum is: 14

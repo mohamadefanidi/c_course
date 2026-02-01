@@ -1,0 +1,7 @@
+6- Print on the screen the following square using write:
+
+Output:
+******
+*    *
+*    *
+******
