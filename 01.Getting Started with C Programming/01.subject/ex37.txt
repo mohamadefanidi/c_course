@@ -1,0 +1,11 @@
+7- Write a program that asks the user for the number of
+chairs and tables they want to make and prints the total
+number of nails needed ,chair need 25 nails
+tables need 30 nails.
+
+Input
+Enter the number of chairs: 2
+Enter the number of tables: 3
+
+Output
+Total nails needed: 140 

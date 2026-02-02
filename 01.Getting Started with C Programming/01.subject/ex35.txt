@@ -1,0 +1,10 @@
+5- Write a program that asks the user for the number of
+liters of gasoline, calculates the number of kilometers the
+car can travel without refueling (assuming 23 km per liter),
+and prints it
+
+Input
+Enter the number of liters gasoline: 2
+
+Output
+The car can travel 46 kilometers without refueling . 

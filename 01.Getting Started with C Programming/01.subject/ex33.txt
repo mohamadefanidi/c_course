@@ -1,0 +1,8 @@
+3- Write a program that asks the user for their monthly
+salary, calculates the annual salary, and prints it
+
+Input
+Enter your monthly salary: 1000
+
+Output
+Your annual salary is: 12000 

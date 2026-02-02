@@ -1,0 +1,10 @@
+8- Write a program that asks the user to enter three
+numbers and prints the addition of the first two numbers and then multiplying them by the third number.
+
+Input
+Enter the first number: 3
+Enter the second number: 2
+Enter the third number: 5
+
+Output
+the product of the sum of the first two numbers and the third number is: 25

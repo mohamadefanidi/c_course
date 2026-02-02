@@ -1,0 +1,8 @@
+2- Write a program that asks the user for their birth date
+(day, month, year)
+
+Input
+Enter your birthdate (day month year): 29-5-2003
+
+Output
+Your birthdate is: 29/5/2003 

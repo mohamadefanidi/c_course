@@ -1,0 +1,13 @@
+9- Write a program that asks the user to enter four
+numbers and prints the sum of the first two numbers in one line and the product of the next two numbers in another
+line.
+
+input
+Enter the first number: 2
+Enter the second number: 3
+Enter the third number: 4
+Enter the fourth number: 5
+
+Output
+Sum of the first two numbers is: 5
+product of the next two numbers is: 20

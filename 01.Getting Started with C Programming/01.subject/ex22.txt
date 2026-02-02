@@ -1,0 +1,8 @@
+Write a program that asks the user to enter a number
+from 1 to 9 and prints its complement, making the sum of both numbers equal to 10.
+
+input
+Enter a number from 1 to 9: 8
+
+Output
+The comlement of 8 is: 2

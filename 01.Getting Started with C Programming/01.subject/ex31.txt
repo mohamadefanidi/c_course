@@ -1,0 +1,8 @@
+1- Write a program that asks the user to enter a number
+and prints the number between quotation marks.
+
+Input
+Enter a number: 5
+
+Output
+The number between quotation marks: "5"

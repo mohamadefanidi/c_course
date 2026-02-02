@@ -1,0 +1,19 @@
+10 - Write a program that calculates the shortfall (if any) by
+recording prices of 5 products and asking the cashier for
+the quantity of each product and the total amount paid
+
+input
+Enter the price of product 1: 10
+Enter the price of product 2: 20
+Enter the price of product 3: 30
+Enter the price of product 4: 40
+Enter the price of product 5: 50
+Enter the quantity of each product: 1
+1
+1
+1
+1
+Enter the total amount paid: 100
+
+Output
+Shortfall: 50  

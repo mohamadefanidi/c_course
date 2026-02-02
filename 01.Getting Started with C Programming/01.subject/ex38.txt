@@ -1,0 +1,10 @@
+8- Write a program that asks the user for their monthly
+subscription balance and its consumption in the current
+month and prints the new balance
+
+Input
+Enter the monthly subscription balance: 100
+Enter the consumption in the current month: 50
+
+Output
+New balance: 50 

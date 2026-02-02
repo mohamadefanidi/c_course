@@ -1,0 +1,18 @@
+9- Write a program that records prices of 5 products, asks
+the user for the quantity of each product, and prints the
+total amount
+
+Input
+Enter the price of product 1: 50
+Enter the price of product 2: 30
+Enter the price of product 3: 40
+Enter the price of product 4: 10
+Enter the price of product 5: 20
+Enter the quantity of each product: 2
+2
+2
+2
+2
+
+Output
+Total  amount: 300

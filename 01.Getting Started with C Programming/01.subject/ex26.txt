@@ -1,0 +1,11 @@
+6- Write a program that asks the user to enter three numbers and prints the sum of each pair in separate lines.
+
+input 
+Enter the first numbers: 1
+Enter the second numbers: 3
+Enter the third numbers: 5
+
+Output
+sum of 1 and 3 is: 4
+sum of 1 and 5 is: 6
+sum of 3 and 5 is: 8

@@ -1,0 +1,8 @@
+1- Write a program that asks the user to enter a number
+and then prints it on a new line.
+
+Input
+Enter a number: 7
+
+Output
+The entered number is: 7

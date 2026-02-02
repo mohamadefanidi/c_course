@@ -1,0 +1,9 @@
+4- Write a program that asks the user for their age,
+calculates and prints their birth year
+
+Input
+Enter your age: 20
+
+Output
+Your birthdate is : 2004 
+

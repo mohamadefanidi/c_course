@@ -1,0 +1,11 @@
+10- Write a program that asks the user to enter five numbers and prints their sum.
+
+Input
+Enter the first number: 1
+Enter the second number: 2
+Enter the third number: 3
+Enter the fourth number: 4
+Enter the fifth number: 5
+
+Output
+the sum of the five numbers is: 15

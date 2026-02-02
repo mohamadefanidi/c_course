@@ -1,0 +1,10 @@
+6- Write a program that asks the student for their grades in
+5 subjects and prints the total and the missing grades
+total = 500
+
+Input
+Enter your grades in 5 subjects: 90 80 70 100 75
+
+Output
+Total marks: 415
+Missing marks: 85

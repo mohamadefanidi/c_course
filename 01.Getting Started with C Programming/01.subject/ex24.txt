@@ -1,0 +1,8 @@
+4- Write a program that asks the user to enter two numbers and prints the result of subtracting the first number from the second.
+
+input
+Enter the first number: 7
+Enter the second number: 2
+
+Output
+the difference between the numbers is: 5

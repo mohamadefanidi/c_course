@@ -1,0 +1,8 @@
+3- Write a program that asks the user to enter two numbers and prints the sum.
+
+input
+Enter the first number: 2
+Enter the second number: 5
+
+Output
+The sum of the numbers is: 7

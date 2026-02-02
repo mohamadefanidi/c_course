@@ -1,0 +1,12 @@
+7- Write a program that asks the user to enter four
+numbers and prints the sum of the first two numbers in one line and the sum of the next two numbers in another line.
+
+Input
+Enter the first number: 3
+Enter the second number: 3
+Enter the third number: 3
+Enter the fourth number: 3
+
+Output
+Sum of the first two numbers is: 7
+Sum of the next two numbers is: 11

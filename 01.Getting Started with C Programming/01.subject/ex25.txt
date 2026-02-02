@@ -1,0 +1,9 @@
+5- Write a program that asks the user to enter two numbers and prints the result of multiplying them.
+
+Input
+Enter the first numbers: 5
+Enter the second numbers: 2
+
+Output
+The product of the two numbers is: 10
+
